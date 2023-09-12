@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\bin\Debug\net6.0-windows\Example1.2.exe
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\bin\Debug\net6.0-windows\Example1.2.deps.json
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\bin\Debug\net6.0-windows\Example1.2.runtimeconfig.json
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\bin\Debug\net6.0-windows\Example1.2.dll
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\bin\Debug\net6.0-windows\Example1.2.pdb
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1._2.Form1.resources
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.AssemblyInfo.cs
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.dll
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\refint\Example1.2.dll
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.pdb
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\Example1.2.genruntimeconfig.cache
+\\Mac\Home\Documents\CSharp\Example1.2\Example1.2\obj\Debug\net6.0-windows\ref\Example1.2.dll

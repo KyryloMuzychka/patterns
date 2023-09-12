@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0xVQ3XExpeA/5BwvkPbtWM1qnWFGeYi1To6gLYKRvKMmvy0pyOVX4op+cttcz3coKWcG3hLU5r3Z0zo/DmAVXQ==",
+  "dgSpecHash": "r9QYyNTXCXlnXR9wjTz2UYebqAZguAZptHN8SQ5XxO39bZP1HoPXwJzFOPR1K9ipExomc/eYYDb2zo/K2rHiQw==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\Example1.1\\Example1.1\\Example1.1.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\CSharp\\Example1.1\\Example1.1\\Example1.1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
