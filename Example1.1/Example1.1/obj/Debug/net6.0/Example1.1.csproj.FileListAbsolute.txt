@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.AssemblyInfo.cs
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Example1.1\Example1.1\bin\Debug\net6.0\Example1.1.exe
+\\Mac\Home\Documents\Example1.1\Example1.1\bin\Debug\net6.0\Example1.1.deps.json
+\\Mac\Home\Documents\Example1.1\Example1.1\bin\Debug\net6.0\Example1.1.runtimeconfig.json
+\\Mac\Home\Documents\Example1.1\Example1.1\bin\Debug\net6.0\Example1.1.dll
+\\Mac\Home\Documents\Example1.1\Example1.1\bin\Debug\net6.0\Example1.1.pdb
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.dll
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\refint\Example1.1.dll
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.pdb
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\Example1.1.genruntimeconfig.cache
+\\Mac\Home\Documents\Example1.1\Example1.1\obj\Debug\net6.0\ref\Example1.1.dll
