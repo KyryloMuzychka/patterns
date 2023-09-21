@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\bin\Debug\net6.0\Example2.2.exe
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\bin\Debug\net6.0\Example2.2.deps.json
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\bin\Debug\net6.0\Example2.2.runtimeconfig.json
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\bin\Debug\net6.0\Example2.2.dll
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\bin\Debug\net6.0\Example2.2.pdb
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.AssemblyInfo.cs
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.dll
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\refint\Example2.2.dll
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.pdb
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\Example2.2.genruntimeconfig.cache
+\\Mac\Home\Documents\CSharp\Example2.2\Example2.2\obj\Debug\net6.0\ref\Example2.2.dll
