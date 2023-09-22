@@ -85,7 +85,5 @@ namespace Lab2_2
                 }
             }         
         }
-
-
     }
 }

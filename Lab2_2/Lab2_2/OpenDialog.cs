@@ -42,7 +42,6 @@ namespace Lab2_2
             form.GetFormatsComboBox().SelectedItem = Path.GetExtension(filePath);
 
             Dialog.GetData(form);
-        }
-        
+        }        
     }
 }

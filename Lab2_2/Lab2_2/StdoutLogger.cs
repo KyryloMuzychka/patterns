@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    internal class StdoutLogger : ILogger
+    public class StdoutLogger : ILogger
     {       
         public void log(string message)
         {
