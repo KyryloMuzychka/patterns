@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    public class StdoutLoggerFactory : LoggerFactory
+    public class StdoutLoggerFactory : ILoggerFactory
     {
-        public Logger createLogger()
+        public ILogger createLogger()
         {
             return new StdoutLogger();
         }

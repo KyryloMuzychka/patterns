@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    internal class StdoutLogger : Logger
+    internal class StdoutLogger : ILogger
     {       
-        public void log(string filePath)
+        public void log(string message)
         {
-            MessageBox.Show("File has been opened", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show($"File {message} has been opened", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }         
     }
 }

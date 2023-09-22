@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    public class FileLoggerFactory : LoggerFactory
+    public class FileLoggerFactory : ILoggerFactory
     {
         private string filePath;
 
@@ -15,7 +15,7 @@ namespace Lab2_2
             this.filePath = filePath;
         }
 
-        public Logger createLogger()
+        public ILogger createLogger()
         {
             return new FileLogger(filePath);
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    public class FileLogger : Logger
+    public class FileLogger : ILogger
     {
         private string filePath;
 
@@ -17,13 +17,7 @@ namespace Lab2_2
         
         public void log(string message)
         {                      
-            MessageBox.Show("File has been saved", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-            using (StreamWriter writer = new StreamWriter(filePath))
-            {
-                // Write message into the file
-                writer.WriteLine(message);
-            }
+            MessageBox.Show($"File {message} has been saved", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

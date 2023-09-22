@@ -2,6 +2,7 @@
 using System;
 using static System.Net.Mime.MediaTypeNames;
 using System.IO;
+using System.Windows.Forms;
 
 namespace Lab2_2
 {
@@ -23,94 +24,68 @@ namespace Lab2_2
             formatsComboBox.SelectedItem = Format.TXT;
         }
 
-        private void saveMenu_Click(object sender, EventArgs e)
+        public ComboBox GetFormatsComboBox()
         {
-            // Get data
-            string message = inputText.Text;
-            string name = nameText.Text;
-            string format = formatsComboBox.SelectedItem.ToString();
+            return formatsComboBox;
+        }
 
-            // Create dialog for seleting a place to save a file 
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
+        public TextBox GetInputText()
+        {
+            return inputText;
+        }
 
-            //  Set filter of files
-            saveFileDialog.Filter = $"Files (*{format})|*{format}";
+        public TextBox GetNameText()
+        {
+            return nameText;
+        }
 
-            // Set initial directory
-            saveFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        private void saveMenu_Click(object sender, EventArgs e)
+        {           
+            // Create dialog for saving a file
+            SaveFileDialog saveFileDialog = SaveDialog.CreateSaveDialog(this);
 
-            // Set initial file name
-            saveFileDialog.FileName = name;
-
-            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            // If result of dialog is OK
+            if (SaveDialog.ConfirmSaving(saveFileDialog))
             {
-                // Get chosen path and the name of the file
-                string filePath = saveFileDialog.FileName;
-                
                 // Create a FileLoggerFactory
-                LoggerFactory fileLoggerFactory = new FileLoggerFactory(filePath);
+                ILoggerFactory fileLoggerFactory = new FileLoggerFactory(SaveDialog.GetName());
 
                 // Create a logger using the FileLoggerFactory
-                Logger fileLogger = fileLoggerFactory.createLogger();
-                fileLogger.log(message);
-            }
+                ILogger fileLogger = fileLoggerFactory.createLogger();
+                fileLogger.log(SaveDialog.GetName());
+
+                SaveDialog.WriteFile(saveFileDialog);
+            }           
         }
 
         private void openMenu_Click(object sender, EventArgs e)
         {
+            // Create dialog for opening a file
+            OpenFileDialog openFileDialog = OpenDialog.CreateOpenDialog(this);
 
-            // Create an instance of OpenFileDialog
-            OpenFileDialog openFileDialog = new OpenFileDialog();
-
-            // Set the initial directory
-            openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-
-            // Set the filter for the file allowed types
-            openFileDialog.Filter = "Text Files (*.txt)|*.txt|Bat Files (*.bat)|*.bat";
-           
             // Show the OpenFileDialog and wait for the user to select a file
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-                // Get the selected file's path and the name of the file
-                string filePath = openFileDialog.FileName;
-                              
+            if (OpenDialog.ConfirmOpening(openFileDialog))
+            {                                             
                 try
-                {
+                {                 
+                    // Reading file
+                    OpenDialog.OpenFile(this, openFileDialog);
+
                     // Create a StdoutLoggerFactory
-                    LoggerFactory stdoutLoggerFactory = new StdoutLoggerFactory();
+                    ILoggerFactory stdoutLoggerFactory = new StdoutLoggerFactory();
 
                     // Create a logger using the StdoutLoggerFactory
-                    Logger stdoutLogger = stdoutLoggerFactory.createLogger();
-                    
-                    using (StreamReader reader = new StreamReader(filePath))
-                    {                        
-                        inputText.Text = reader.ReadToEnd();
-                    }
-                   
-                    nameText.Text = GetName(Path.GetFileName(filePath));
-                    formatsComboBox.SelectedItem = Path.GetExtension(filePath);
-
-                    stdoutLogger.log(filePath);
+                    ILogger stdoutLogger = stdoutLoggerFactory.createLogger();
+                                     
+                    stdoutLogger.log(Dialog.GetName());
                 }
                 catch (IOException ex)
                 {
-                    Console.WriteLine("An error occurred while reading the file: " + ex.Message);
+                    MessageBox.Show($"An error occurred while reading the file: {ex.Message}", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);                    
                 }
             }         
         }
 
-        private string GetName(string name)
-        {
-            string fileName = "";
-            foreach (char c in name)
-            {  
-                if (c == '.') 
-                {
-                    break;
-                }
-                fileName += c;
-            }
-            return fileName;
-        }
+
     }
 }

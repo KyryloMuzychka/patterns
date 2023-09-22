@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lab2_2
 {
-    public interface LoggerFactory
+    public interface ILoggerFactory
     {
-        public Logger createLogger();
+        public ILogger createLogger();
     }
 }
