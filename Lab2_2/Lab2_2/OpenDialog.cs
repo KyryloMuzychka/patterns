@@ -9,7 +9,7 @@ namespace Lab2_2
 {
     public class OpenDialog : Dialog
     {
-        static public OpenFileDialog CreateOpenDialog(Form1 form)
+        static public OpenFileDialog CreateOpenDialog()
         {          
             // Create an instance of OpenFileDialog
             OpenFileDialog openFileDialog = new OpenFileDialog();
@@ -28,20 +28,15 @@ namespace Lab2_2
             return openFileDialog.ShowDialog() == DialogResult.OK ? true : false;
         }
 
-        static public void OpenFile(Form1 form, OpenFileDialog openFileDialog)
+        static public void OpenFile(OpenFileDialog openFileDialog)
         {
             // Get the selected file's path and the name of the file
             string filePath = openFileDialog.FileName;
 
             using (StreamReader reader = new StreamReader(filePath))
             {
-                form.GetInputText().Text = reader.ReadToEnd();
-            }
-
-            form.GetNameText().Text = GetNameAndDeleteExtension(Path.GetFileName(filePath));
-            form.GetFormatsComboBox().SelectedItem = Path.GetExtension(filePath);
-
-            Dialog.GetData(form);
+                Data.SetData(reader.ReadToEnd(), GetNameAndDeleteExtension(Path.GetFileName(filePath)), Path.GetExtension(filePath));                
+            }      
         }        
     }
 }

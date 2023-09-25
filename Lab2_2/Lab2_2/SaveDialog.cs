@@ -11,21 +11,19 @@ namespace Lab2_2
 {
     public class SaveDialog : Dialog
     {       
-        static public SaveFileDialog CreateSaveDialog(Form1 form)
-        {
-            Dialog.GetData(form);
-
+        static public SaveFileDialog CreateSaveDialog()
+        {            
             // Create dialog for seleting a place to save a file 
             SaveFileDialog saveFileDialog = new SaveFileDialog();
 
             //  Set filter of files
-            saveFileDialog.Filter = $"Files (*{format})|*{format}";
+            saveFileDialog.Filter = $"Files (*{Data.GetFormat()})|*{Data.GetFormat()}";
 
             // Set initial directory
             saveFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
             // Set initial file name
-            saveFileDialog.FileName = name;
+            saveFileDialog.FileName = Data.GetName();
      
             return saveFileDialog;
         }
@@ -42,7 +40,7 @@ namespace Lab2_2
             using (StreamWriter writer = new StreamWriter(filePath))
             {
                 // Write message into the file
-                writer.WriteLine(message);
+                writer.WriteLine(Data.GetMessage());
             }
         }
     }

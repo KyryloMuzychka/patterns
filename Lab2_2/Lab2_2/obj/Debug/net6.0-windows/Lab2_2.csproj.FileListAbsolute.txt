@@ -19,7 +19,6 @@ C:\Kyrylo\CSharp\Lab2_2\Lab2_2\bin\Debug\net6.0-windows\Lab2_2.deps.json
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\bin\Debug\net6.0-windows\Lab2_2.runtimeconfig.json
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\bin\Debug\net6.0-windows\Lab2_2.dll
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\bin\Debug\net6.0-windows\Lab2_2.pdb
-C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.Form1.resources
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.csproj.GenerateResource.cache
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.AssemblyInfoInputs.cache
@@ -30,3 +29,4 @@ C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\refint\Lab2_2.dll
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.pdb
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.genruntimeconfig.cache
 C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\ref\Lab2_2.dll
+C:\Kyrylo\CSharp\Lab2_2\Lab2_2\obj\Debug\net6.0-windows\Lab2_2.NotepadForm.resources
