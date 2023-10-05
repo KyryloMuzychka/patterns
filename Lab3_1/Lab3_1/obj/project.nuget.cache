@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8doOOr8NkJXPgZoiaZPsx5Hro3h9i7VDiosRDUPeAvsq8y2eYTLpk8Got5OQmcG477ve32tEjqhAmsaVA/MIXg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\CSharp\\Lab3_1\\Lab3_1\\Lab3_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muzychka\\.nuget\\packages\\microsoft.azure.amqp\\2.6.3\\microsoft.azure.amqp.2.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

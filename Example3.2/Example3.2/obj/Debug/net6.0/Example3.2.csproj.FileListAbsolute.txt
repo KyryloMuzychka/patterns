@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\bin\Debug\net6.0\Example3.2.exe
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\bin\Debug\net6.0\Example3.2.deps.json
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\bin\Debug\net6.0\Example3.2.runtimeconfig.json
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\bin\Debug\net6.0\Example3.2.dll
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\bin\Debug\net6.0\Example3.2.pdb
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.AssemblyInfo.cs
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.dll
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\refint\Example3.2.dll
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.pdb
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\Example3.2.genruntimeconfig.cache
+\\Mac\Home\Documents\CSharp\Example3.2\Example3.2\obj\Debug\net6.0\ref\Example3.2.dll

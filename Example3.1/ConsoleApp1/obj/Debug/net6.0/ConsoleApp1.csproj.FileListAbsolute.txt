@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+\\Mac\Home\Documents\CSharp\Example3.1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
