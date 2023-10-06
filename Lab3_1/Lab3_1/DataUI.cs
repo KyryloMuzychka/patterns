@@ -8,7 +8,7 @@ namespace Lab3_1
 {
     public class DataUI
     {
-        public List<string> country = new List<string> { "Ukraine", "Japan" };
-        public List<string> plants = new List<string> { "Tree", "Bush", "Flower" };
+        static public List<string> country = new List<string> { "Ukraine", "Japan" };
+        static public List<string> plants = new List<string> { "Tree", "Bush", "Flower" };
     }
 }

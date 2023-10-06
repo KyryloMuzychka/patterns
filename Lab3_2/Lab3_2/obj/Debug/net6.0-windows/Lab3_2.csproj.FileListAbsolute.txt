@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\bin\Debug\net6.0-windows\Lab3_2.exe
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\bin\Debug\net6.0-windows\Lab3_2.deps.json
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\bin\Debug\net6.0-windows\Lab3_2.runtimeconfig.json
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\bin\Debug\net6.0-windows\Lab3_2.dll
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\bin\Debug\net6.0-windows\Lab3_2.pdb
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.AssemblyInfo.cs
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.dll
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\refint\Lab3_2.dll
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.pdb
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.genruntimeconfig.cache
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\ref\Lab3_2.dll
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.Properties.Resources.resources
+\\Mac\Home\Documents\CSharp\Lab3_2\Lab3_2\obj\Debug\net6.0-windows\Lab3_2.SoundsForm.resources

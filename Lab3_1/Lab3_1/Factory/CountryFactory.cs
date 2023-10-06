@@ -10,6 +10,6 @@ namespace Lab3_1
     {
         public abstract Tree CreateTree();
         public abstract Bush CreateBush();
-        public abstract Flower CreateFlower();
+        public abstract Flower CreateFlower();        
     }
 }

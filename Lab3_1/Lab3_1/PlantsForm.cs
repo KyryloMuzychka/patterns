@@ -15,13 +15,12 @@ namespace Lab3_1
         }
 
         void InitializeComboBoxes()
-        {
-            DataUI dataUI = new DataUI();
-            foreach (var el in dataUI.country)
+        {            
+            foreach (var el in DataUI.country)
             {
                 countryComboBox.Items.Add(el);
             }
-            foreach (var el in dataUI.plants)
+            foreach (var el in DataUI.plants)
             {
                 plantComboBox.Items.Add(el);
             }
@@ -61,14 +60,14 @@ namespace Lab3_1
 
         void Ukraine()
         {
-            Factory.ukraineFactory = new UkraineFactory();
-            Factory.world = new PlantWorld(Factory.ukraineFactory);
+            Factory.CreateUkraineFactory();
+            Factory.CreatePlantWorld(Factory.ukraineFactory);
         }
 
         void Japan()
         {
-            Factory.japanFactory = new JapanFactory();
-            Factory.world = new PlantWorld(Factory.japanFactory);
+            Factory.CreateJapanFactory();
+            Factory.CreatePlantWorld(Factory.japanFactory);  
         }
 
         void ChangeDescription(string selectedItem)
