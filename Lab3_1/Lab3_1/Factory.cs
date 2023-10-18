@@ -8,21 +8,21 @@ namespace Lab3_1
 {
     public class Factory
     {
-        public static UkraineFactory ukraineFactory;
-        public static JapanFactory japanFactory;
+        public static CountryFactory countryFactory;
         public static PlantWorld world;
         
-        public static void CreateUkraineFactory()
-        {            
-            ukraineFactory = new UkraineFactory();
-        }
-
-        public static void CreateJapanFactory()
+        public static void CreateCountryFactory(string typeFactory)
         {
-            japanFactory = new JapanFactory();
+            switch(typeFactory) {
+                case "Ukraine":
+                    countryFactory = new UkraineFactory();
+                    break;
+                case "Japan":
+                    countryFactory = new JapanFactory();
+                    break;
+            }           
         }
-
-        public static void CreatePlantWorld(CountryFactory countryFactory)
+        public static void CreatePlantWorld()
         {
             world = new PlantWorld(countryFactory);
         }

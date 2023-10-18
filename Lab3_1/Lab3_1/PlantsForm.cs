@@ -36,17 +36,8 @@ namespace Lab3_1
         private void countryComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             string selectedCountry = countryComboBox.SelectedItem.ToString();
-
-            switch (selectedCountry)
-            {
-                case "Ukraine":
-                    Ukraine();
-                    break;
-                case "Japan":
-                    Japan();
-                    break;
-            }
-
+            Factory.CreateCountryFactory(selectedCountry);
+            Factory.CreatePlantWorld();  
             plantComboBox.SelectedIndex = 0;
             string selectedPlant = plantComboBox.SelectedItem.ToString();
             ChangeDescription(selectedPlant);
@@ -56,18 +47,6 @@ namespace Lab3_1
         {
             string selectedPlant = plantComboBox.SelectedItem.ToString();
             ChangeDescription(selectedPlant);
-        }
-
-        void Ukraine()
-        {
-            Factory.CreateUkraineFactory();
-            Factory.CreatePlantWorld(Factory.ukraineFactory);
-        }
-
-        void Japan()
-        {
-            Factory.CreateJapanFactory();
-            Factory.CreatePlantWorld(Factory.japanFactory);  
         }
 
         void ChangeDescription(string selectedItem)

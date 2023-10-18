@@ -15,16 +15,7 @@ namespace Lab3_2
         {
             string selectedHabitat = habitatComboBox.SelectedItem.ToString();
             InitializeAnimalsComboBox(selectedHabitat);
-
-            switch (selectedHabitat)
-            {
-                case "Land":
-                    Land();
-                    break;
-                case "Sea":
-                    Sea();
-                    break;
-            }
+            Factory.CreateAnimalFactory(selectedHabitat);
             animalComboBox.Text = "";
             animalComboBox.SelectedIndex = -1;
         }
@@ -34,30 +25,8 @@ namespace Lab3_2
             if (habitatComboBox.SelectedIndex != -1)
             {
                 string selectedAnimal = animalComboBox.SelectedItem.ToString();
-
-                switch (selectedAnimal)
-                {
-                    case "Dog":
-                        Animal dog = Factory.landFactory.GetAnimal("Dog");
-                        ShowInfo(dog);
-                        break;
-                    case "Cat":
-                        Animal cat = Factory.landFactory.GetAnimal("Cat");
-                        ShowInfo(cat);
-                        break;
-                    case "Lion":
-                        Animal lion = Factory.landFactory.GetAnimal("Lion");
-                        ShowInfo(lion);
-                        break;
-                    case "Octopus":
-                        Animal octopus = Factory.seaFactory.GetAnimal("Octopus");
-                        ShowInfo(octopus);
-                        break;
-                    case "Shark":
-                        Animal shark = Factory.seaFactory.GetAnimal("Shark");
-                        ShowInfo(shark);
-                        break;
-                }
+                Factory.CreateAnimal(selectedAnimal);
+                ShowInfo(Factory.animal);
             }
         }
 
@@ -93,16 +62,6 @@ namespace Lab3_2
             {
                 animalComboBox.Items.Add(el);
             }
-        }
-
-        void Land()
-        {
-            Factory.landFactory = AnimalFactory.CreateAnimalFactory("Land");
-        }
-
-        void Sea()
-        {
-            Factory.seaFactory = AnimalFactory.CreateAnimalFactory("Sea");
         }
     }
 }
