@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8doOOr8NkJXPgZoiaZPsx5Hro3h9i7VDiosRDUPeAvsq8y2eYTLpk8Got5OQmcG477ve32tEjqhAmsaVA/MIXg==",
+  "dgSpecHash": "C2vI4036Z8iMw0x9soYBY5sd5R1vPSkQmTj4zX/3wIkzZDtI4lGfgpJN50cotnvFgIg5FYRD59LMpzPQZ8NH7Q==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\CSharp\\Lab3_1\\Lab3_1\\Lab3_1.csproj",
+  "projectFilePath": "C:\\Kyrylo\\CSharp\\Lab3_1\\Lab3_1\\Lab3_1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\muzychka\\.nuget\\packages\\microsoft.azure.amqp\\2.6.3\\microsoft.azure.amqp.2.6.3.nupkg.sha512"
+    "C:\\Users\\kyryl\\.nuget\\packages\\microsoft.azure.amqp\\2.6.3\\microsoft.azure.amqp.2.6.3.nupkg.sha512"
   ],
   "logs": []
 }

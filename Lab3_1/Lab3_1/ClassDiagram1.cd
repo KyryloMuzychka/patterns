@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab3_1.CountryFactory">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Factory\CountryFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.JapanFactory">
+    <Position X="7" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Factory\JapanFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.UkraineFactory">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Factory\UkraineFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Bush">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Bush\Bush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.GuelderRose">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Bush\GuelderRose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Kerria">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Bush\Kerria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Oak">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Tree\Oak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Sakura">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Tree\Sakura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Tree">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Tree\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Chrysanthemum">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flower\Chrysanthemum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Flower">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flower\Flower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Sunflower">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flower\Sunflower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.DataUI">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAA=</HashCode>
+      <FileName>DataUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Factory">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.PlantsForm">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAKAAAAAAQAKAAAECCAAAAAAAAAAAAAAAJAA=</HashCode>
+      <FileName>PlantsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.PlantWorld">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAgAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlantWorld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_1.Program">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

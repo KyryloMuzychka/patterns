@@ -1,0 +1,10 @@
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.AssemblyReference.cache
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.Properties.Resources.resources
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.GenerateResource.cache
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb
+C:\Kyrylo\CSharp\Lab4_2\Lab4_2\obj\Debug\Lab4_2.Bank.resources
