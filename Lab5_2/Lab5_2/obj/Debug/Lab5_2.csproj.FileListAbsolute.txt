@@ -1,0 +1,10 @@
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.AssemblyReference.cache
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.cache
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.CoreCompileInputs.cache
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb
+C:\Kyrylo\CSharp\Lab5_2\Lab5_2\obj\Debug\Lab5_2.CarEngineForm.resources

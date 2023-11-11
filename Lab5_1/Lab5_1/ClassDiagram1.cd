@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5_1.Store">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.ClsInvoice">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAEAAAQAEAAA=</HashCode>
+      <FileName>ClsInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.ClsPayment">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAQAAAAA=</HashCode>
+      <FileName>ClsPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.ClsProduct">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIAAAAAAAAAAAAAAAAAAAEgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.Facade">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABJAACAAAAAAAAAQACAQAAAAAAAAIAAAAAAEAA=</HashCode>
+      <FileName>Facade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.Logic">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.Program">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_1.ShopForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAoACQEgAAAAADABFACCAIAAAABgAAiAiALAAA=</HashCode>
+      <FileName>ShopForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
