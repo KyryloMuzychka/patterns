@@ -1,0 +1,10 @@
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.csproj.AssemblyReference.cache
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.MainForm.resources
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.Properties.Resources.resources
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.csproj.GenerateResource.cache
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.csproj.CoreCompileInputs.cache
+C:\Kyrylo\Lab7_1\Lab7_1\bin\Debug\Lab7_1.exe.config
+C:\Kyrylo\Lab7_1\Lab7_1\bin\Debug\Lab7_1.exe
+C:\Kyrylo\Lab7_1\Lab7_1\bin\Debug\Lab7_1.pdb
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.exe
+C:\Kyrylo\Lab7_1\Lab7_1\obj\Debug\Lab7_1.pdb

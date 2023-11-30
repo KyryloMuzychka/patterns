@@ -1,0 +1,10 @@
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\bin\Debug\Lab6_1.exe.config
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\bin\Debug\Lab6_1.exe
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\bin\Debug\Lab6_1.pdb
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.csproj.AssemblyReference.cache
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.TVForm.resources
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.Properties.Resources.resources
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.csproj.GenerateResource.cache
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.csproj.CoreCompileInputs.cache
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.exe
+C:\Kyrylo\CSharp\Lab6_1\Lab6_1\obj\Debug\Lab6_1.pdb
