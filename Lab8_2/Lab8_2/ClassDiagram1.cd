@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab8_2.PizzaForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACACABAACACAAAACAAAAAQAAAJDAIAAAAAA=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab8_2.PizzaOrder">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAAI=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab8_2.Data">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAIAAAAAAAAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab8_2.MargheritaPizza" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAAAAAAAAAIAAAAAAAAAAQAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab8_2.PepperoniPizza" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAACAAAAAQAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab8_2.Program">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab8_2.IPizzaStrategy">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
